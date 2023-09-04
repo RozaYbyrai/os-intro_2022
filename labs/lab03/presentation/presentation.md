@@ -107,6 +107,3 @@ sin2
 Учили базовые сведения о Markdown
 
 
-## {.standout}
-
-Wer's nicht glaubt, bezahlt einen Taler
