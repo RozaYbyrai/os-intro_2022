@@ -15,6 +15,7 @@ BIB_OPTIONS = --citeproc
 
 %.docx: %.md
 	-pandoc "$<" $(FILTERS) $(OPTIONS) $(BIB_OPTIONS) -o "$@"
+	pandoc report.md -o report.pdf
 
 %.pdf: %.md
 	-pandoc "$<" $(FILTERS) $(PDF_ENGINE) $(PDF_OPTIONS) $(BIB_OPTIONS) $(FORMAT_OPTIONS) $(OPTIONS) -o "$@"
