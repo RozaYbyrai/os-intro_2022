@@ -3,7 +3,7 @@
 lang: ru-RU
 title:  Анализ файловой системы Linux. Команды для работы с файлами и каталогами
 author: |
-	Anton L. Sevastianov\inst{1}
+	Ыбырай Роза\inst{1}
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
 date: 5 сентября, 2023, Москва
