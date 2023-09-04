@@ -111,6 +111,3 @@ section-titles: true
 Мы приобрели практические навыки работы с git.
 
 
-## {.standout}
-
-Wer's nicht glaubt, bezahlt einen Taler
