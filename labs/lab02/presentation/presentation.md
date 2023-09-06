@@ -1,9 +1,9 @@
 ---
 ## Front matter
 lang: ru-RU
-title: 'первоначальна настройка git'
+title: "первоначальна настройка git"
 author: |
-	Ыбырай Роза\inst{1}
+	"Ыбырай Роза"\inst{1}
 	
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
