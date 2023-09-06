@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title:  Программирование в командном процессоре ОС UNIX. Командные файлы
+title:  Programming in OS UNIX. Command files
 author: |
 	Ybyrai Roza\inst{1}
 	
