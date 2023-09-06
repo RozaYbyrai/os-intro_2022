@@ -15,7 +15,7 @@ toc: false
 slide_level: 2
 theme: metropolis
 header-includes: 
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+ - '\metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
  - '\makeatletter'
  - '\beamer@ignorenonframefalse'
  - '\makeatother'
