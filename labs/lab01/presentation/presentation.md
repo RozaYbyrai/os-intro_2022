@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Установка ОС Linux на ВМ
+title: "Установка ОС Linux на ВМ"
 author: |
 	Ыбырай Роза\inst{1}
 	
