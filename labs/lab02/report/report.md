@@ -1,6 +1,6 @@
 ---
 ## Front matter
-title: "Первоначальна настройка git"
+title: "Yервоначальна настройка git"
 author: "Ыбырай Роза"
 
 ## Generic otions
