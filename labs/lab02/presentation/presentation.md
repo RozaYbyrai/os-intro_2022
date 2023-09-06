@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Первоначальна настройка git
+title: "Первоначальна настройка git"
 author: |
 	Ыбырай Роза\inst{1}
 	
