@@ -2,11 +2,9 @@
 ## Front matter
 lang: ru-RU
 title: "первоначальна настройка git"
-author: |
-	"Ыбырай Роза"\inst{1}
+author: "Ыбырай Роза"\inst{1}
 	
-institute: |
-	\inst{1}RUDN University, Moscow, Russian Federation
+institute: \inst{1}RUDN University, Moscow, Russian Federation
 	
 date: 4th september,2023,Moscow, Russia
 
