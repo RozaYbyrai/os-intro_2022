@@ -87,6 +87,7 @@ header-includes:
 
 ![Рис.3: ](image/lab9.3.jpg){ #fig:003 width=70% }
 
+
 4. Сохранение файла
    
 ![Рис.4: сохранение файла](image/lab9.4.jpg){ #fig:004 width=70% }
